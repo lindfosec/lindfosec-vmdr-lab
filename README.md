@@ -33,9 +33,9 @@ This project was built as hands-on preparation for an entry-level **Vulnerabilit
 
 ## Key documentation
 
-- [`docs/Phase1_Summary.pdf`](docs/Phase1_Summary.pdf) — initial architecture and asset group design
+- [`Lindfosec-Phase1_Summary.pdf`](docs/Phase1_Summary.pdf) — initial architecture and asset group design
 - [`docs/ConfigProfile_and_ITMgmt_Findings.pdf`](docs/ConfigProfile_and_ITMgmt_Findings.pdf) — Configuration Profile build and first real findings review
-- [`docs/First_Remediation_Cycle_HR_curl.pdf`](docs/First_Remediation_Cycle_HR_curl.pdf) — full detect-to-verify remediation cycle
+- [`Lindfosec-First_Remediation_Cycle_HR_curl.pdf`](docs/First_Remediation_Cycle_HR_curl.pdf) — full detect-to-verify remediation cycle
 - [`docs/SSM_S3_CloudAgent_Deployment_Reference.pdf`](docs/SSM_S3_CloudAgent_Deployment_Reference.pdf) — deployment methodology reference
 
 *(Full list added as documents are uploaded.)*
